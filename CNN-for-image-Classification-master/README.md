@@ -41,8 +41,3 @@ Contributions to this project are welcome! Feel free to open issues for feature 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-css
-Copy code
-
-Feel free to customize the README.md according to your project specifics and preferences.
